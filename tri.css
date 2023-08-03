@@ -1,0 +1,81 @@
+*{
+    margin: 0rem;
+    padding:0rem ;
+}
+.box{
+    background-color: cornsilk;
+    min-height: 100vh;
+    border: 15px solid black;
+    /* width: 100%; */
+}
+.heading h1{
+    margin-top: 0rem;
+    /* margin-left: 20rem; */
+    /* border: 1px solid black; */
+    text-align: center;
+    font-size: 50px;
+}
+.copi{
+    display: flex;
+    justify-content: space-between;
+}
+.pic img{
+    margin-top: 0.5rem;
+    margin-left: 10rem;
+    height: 300px;
+    width: 600px;
+    border-radius: 5rem;
+}
+.text h2{
+    margin-right: 10rem;
+    margin-top: 7rem;
+    font-size: 60px;
+}
+.text h4{
+    text-align: end;
+    margin-right: 10rem;
+    font-size:30px ;
+}
+.intro h4{
+    margin-top: 0.5rem;
+    /* text-align: center; */
+    margin-left: 3rem;
+    font-size: 40px;
+}
+.intro p{
+    margin-top: 1rem;
+    font-size: 20px;
+}
+.text :hover{
+    text-shadow: 3px  3px grey;
+    font-family: 'Lobster', cursive;
+}
+.hea h4{
+    margin-top: 0.5rem;
+    margin-left: 3rem;
+    /* text-align: center; */
+    font-size: 40px;
+}
+.bio li{
+    margin-top: 1rem;
+    font-size: 20px;
+    margin-left: 3rem;
+}
+.para p{
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    margin-left: 2rem;
+}
+footer p{
+    text-align: end;
+    font-size: 20px;
+    margin-left: 20rem;
+}
+.hea h4:hover{
+        text-shadow: 1px  1px grey;
+        font-family: 'Lobster', cursive;
+    }
+.intro h4:hover{
+    text-shadow: 1px  1px grey;
+    font-family: 'Lobster', cursive;
+}
